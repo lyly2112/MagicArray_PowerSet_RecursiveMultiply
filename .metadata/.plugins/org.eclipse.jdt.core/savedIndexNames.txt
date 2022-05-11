@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\revature\projects\dailychallenge\OB\MagicArray_PowerSet_RecursiveMultiply\.metadata\.plugins\org.eclipse.jdt.core
+217047792.index
+1865797976.index
+2352332650.index
